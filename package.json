@@ -1,5 +1,5 @@
 {
-    "name": "",
+    "name": "dota_2_but_rotation_casts_spells",
     "private": true,
     "scripts": {
         "postinstall": "node scripts/install.js",
